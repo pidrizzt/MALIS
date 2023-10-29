@@ -1,1 +1,1 @@
-# MALIS-lab1
+# MALIS

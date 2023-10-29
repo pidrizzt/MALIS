@@ -1,0 +1,9 @@
+label1,label2,label3,output
+110,frequent,45,ill
+111,rare,12,healthy
+12,frequent,54,ill
+111,rare,12,healthy
+22,rare,14,healthy
+31,rare,18,healthy
+15,frequent,47,ill
+184,frequent,32,ill
